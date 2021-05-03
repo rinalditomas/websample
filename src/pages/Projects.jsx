@@ -3,7 +3,6 @@ import GoTop from "../components/GoTop";
 import Footer from "../components/Footer";
 import Fade from "react-reveal/Fade";
 import { Helmet } from "react-helmet";
-import CRUCE from "../cruce.png"
 
 export default function Projects() {
   return (
@@ -64,7 +63,7 @@ export default function Projects() {
             href="https://the-social-code.herokuapp.com/"
           >
             <img
-              src={CRUCE}
+              src="https://res.cloudinary.com/dssllfoin/image/upload/v1620070025/Disen%CC%83o_sin_ti%CC%81tulo_ercnct.png"
               alt="TSCProject"
             />
           </a>

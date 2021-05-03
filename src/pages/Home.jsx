@@ -1,7 +1,6 @@
 import React from "react";
 import Fade from "react-reveal/Fade";
 import { Helmet } from "react-helmet";
-import blob from '../blob.svg'
 
 export default function Home() {
   return (
@@ -13,7 +12,7 @@ export default function Home() {
         <Fade bottom>
           <div className="home-background">
             <img
-              src={blob}
+              src="https://res.cloudinary.com/dssllfoin/image/upload/v1620070230/blob_zlfn7u.svg"
               alt="home-blob"
             />
           </div>

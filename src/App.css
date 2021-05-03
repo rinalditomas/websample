@@ -2,9 +2,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Bitter:wght@300;400;500;600;700;800&display=swap");
 
 :root {
-  --menuLogo: url(/Users/tomasrinaldi/Desktop/Portfolio/src/Menu-item.svg)
+  --menuLogo: url(https://res.cloudinary.com/dssllfoin/image/upload/v1620070057/Menu-item_sgrx33.svg)
     no-repeat;
-  --mainLogo: url(/Users/tomasrinaldi/Desktop/Portfolio/src/LOGO.png)
+  --mainLogo: url(https://res.cloudinary.com/dssllfoin/image/upload/v1620070057/LOGO_ydb9su.png)
     no-repeat;
 
   /* Colors */
