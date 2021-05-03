@@ -20,15 +20,15 @@ function NavBar() {
         <div id="example-collapse-text">
           <Navbar className="collapsedNavbar">
             <Navbar.Brand href="#home"></Navbar.Brand>
-            <Nav.Link className="my-navText" href="/work">
+            <Link className="my-navText" to="/work">
               Work
-            </Nav.Link>
-            <Nav.Link className="my-navText" href="/about">
+            </Link>
+            <Link className="my-navText" to="/about">
               About
-            </Nav.Link>
-            <Nav.Link className="my-navText" href="/contact">
+            </Link>
+            <Link className="my-navText" to="/contact">
               Contact
-            </Nav.Link>
+            </Link>
           </Navbar>
         </div>
         
