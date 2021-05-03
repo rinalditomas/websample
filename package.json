@@ -1,7 +1,7 @@
 {
   "name": "tomas",
   "version": "0.1.0",
-  "private": true,
+  "private":true,
   "homepage": "https://rinalditomas.github.io/websample",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
